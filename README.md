@@ -308,6 +308,8 @@
 - React
 - TypeScript
 - Vite
+- JavaScript
+- GSAP / Three.js
 
 ---
 
