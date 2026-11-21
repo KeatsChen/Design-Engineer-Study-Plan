@@ -406,23 +406,6 @@
 
 ---
 
-## 🏁 学习里程碑（Milestones）
-
-| Day | 里程碑 | 预期能力 |
-|---|---|---|
-| 03 | 理解前端开发流程 | 理解网站的构建、运行与部署 |
-| 13 | 完成第一套 Design Tokens | 能将视觉规范映射为代码变量 |
-| 25 | 完成响应式网站 | 能使用 HTML/CSS 和 Tokens 构建网页 |
-| 35 | 完成 JavaScript 交互项目 | 能理解事件、状态和数据驱动的 UI |
-| 55 | 掌握 React + TypeScript 基础 | 能开发具有明确 Props 和 State 的组件 |
-| 70 | 发布 Keats UI v1.0 | 能构建可复用的 React 设计系统 |
-| 80 | 完成 Product Interaction Lab | 能实现常见复杂产品交互 |
-| 83 | 完成 Creative Coding & Motion Showcase | 能使用代码实现交互动效，并将 Rive 与 React 集成 |
-| 99 | 部署 Web App MVP | 能开发并上线具有数据功能的 Web 产品 |
-| 100 | 发布最终作品集总结 | 完成学习复盘与 Design Engineer 项目案例 |
-
----
-
 ## 📌 最终目标（Final Goal）
 
 通过这 100 天，从主要使用 Figma 设计界面的 UI/UX Designer，逐步建立 Design Engineer 所需的前端工程能力。
