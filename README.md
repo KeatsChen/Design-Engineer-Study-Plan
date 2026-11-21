@@ -498,25 +498,6 @@ Codex 等 AI 工具是开发辅助工具，学习目标是逐步建立能够独�
 
 ---
 
-## 📝 每日学习记录
-
-每一天的学习记录包含：
-
-| 模块 | 记录内容 |
-|---|---|
-| Day & Project | 日期与作品名称 |
-| Preview | 作品截图、GIF 或在线演示 |
-| Learning Goals | 当天需要掌握的知识 |
-| Implementation | 核心技术与实现方法 |
-| Challenges | 遇到的问题及解决方式 |
-| What I Did Myself | 独立完成的代码或功能 |
-| AI Assistance | Codex 等 AI 工具参与的部分 |
-| Next Improvements | 下一步的改进方向 |
-
-每次学习后，检查是否能够在不使用 Codex 的情况下独立解释和修改当天完成的核心代码。
-
----
-
 ## 🏁 学习里程碑（Milestones）
 
 | Day | 里程碑 | 预期能力 |
