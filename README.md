@@ -305,7 +305,9 @@
 
 ## 🛠️ 技术栈（Tech Stack）
 
-待定
+- React
+- TypeScript
+- Vite
 
 ---
 
