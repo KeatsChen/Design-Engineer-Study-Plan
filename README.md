@@ -301,39 +301,11 @@
 
 登录 → 浏览文章 → 阅读 → 收藏或添加笔记 → 保存 → 再次登录后恢复数据。
 
-AI 解释功能作为进阶内容，根据实际开发进度决定是否完成。
-
 ---
 
 ## 🛠️ 技术栈（Tech Stack）
 
-### Frontend — 前端开发
-
-- HTML5 / CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-
-### Design & Interaction — 设计与交互
-
-- Figma
-- Design Tokens
-- Storybook
-- Rive
-
-### Development Tools — 开发工具
-
-- VS Code / Cursor
-- Codex
-- Git & GitHub
-- Vite
-- Chrome DevTools
-
-### Backend & Deployment — 后端与部署
-
-- Supabase
-- Vercel
+待定
 
 ---
 
@@ -407,79 +379,15 @@ AI 解释功能作为进阶内容，根据实际开发进度决定是否完成�
 
 ---
 
-## 💡 我的学习方式（Learning Approach）
-
-每天的学习遵循六个步骤：
-
-1. **Learn — 学习**
-
-   理解当天需要掌握的工程概念和技术知识。
-
-2. **Design — 设计**
-
-   分析页面、组件、交互或系统结构，明确实现目标。
-
-3. **Build — 开发**
-
-   使用代码和 AI 辅助工具实现当天的作品。
-
-4. **Understand — 理解**
-
-   阅读核心代码，理解实现原理，并独立修改关键部分。
-
-5. **Debug — 调试**
-
-   检查功能、定位问题、优化实现。
-
-6. **Share — 发布**
-
-   将作品上传 GitHub，记录学习心得和技术问题。
-
-Codex 等 AI 工具是开发辅助工具，学习目标是逐步建立能够独立理解、评估、修改和维护代码的工程能力。
-
----
-
-## ✅ 学习原则（Learning Principles）
-
-- 每天完成一个具体、可以验证的学习成果。
-- 注重理解代码，而不只是生成代码。
-- 优先学习可复用、可维护的工程实现方式。
-- 将响应式与可访问性作为基础要求。
-- 通过设计系统连接视觉设计与工程开发。
-- 记录错误、解决过程和改进经验。
-- 每天尽量保留独立编码练习。
-- 不为了连续打卡而牺牲学习质量。
-- 持续完善长期项目，而不是每天都创建全新项目。
-
----
-
-## ⏱️ 每日学习时间
-
-计划每天投入约 5–6 小时。
-
-| 学习环节 | 时间 | 具体任务 |
-|---|---|---|
-| 理论学习 | 60 分钟 | 理解工程概念和当天的新知识 |
-| 设计与架构拆解 | 45 分钟 | 分析页面、组件、数据流或结构 |
-| Codex 辅助开发 | 90 分钟 | 实现当天项目 |
-| 独立编码 | 60 分钟 | 独立编写或修改关键逻辑 |
-| 调试与测试 | 45 分钟 | 使用 DevTools 检查并修复问题 |
-| GitHub 发布 | 30 分钟 | 提交代码、截图和学习总结 |
-| **总计** | **5.5 小时** | |
-
-实际学习时间根据当天任务的难度适当调整。
-
----
-
 ## 📂 GitHub 仓库结构
 
 主仓库：
 
-`100-days-of-design-engineering`
+`design-engineer-study-plan`
 
 用于集中记录学习路线、每日进度和技术成长。
 
-    100-days-of-design-engineering/
+    design-engineer-study-plan/
     ├── README.md
     ├── day-01-my-first-website/
     ├── day-02-website-architecture/
